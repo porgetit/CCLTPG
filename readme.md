@@ -101,26 +101,9 @@ El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural 
 
 ### 5.2 Diagrama de contexto
 
-El diagrama siguiente muestra el contexto del sistema, las entidades externas a éste y los flujos de información.
+El siguiente diagrama muestra el contexto del sistema, las entidades externas a éste y los flujos de información.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    CCLT-Plataforma                              │
-│              (Sistema de Gestión CCLT)                         │
-└──────────────┬───────────────┬──────────────┬───────────────────┘
-               │               │              │
-       ┌───────┘       ┌───────┘      ┌───────┘
-       ▼               ▼              ▼
-┌─────────────┐  ┌───────────┐  ┌──────────────────┐
-│ Estudiantes │  │ Educadores│  │   Administradores│
-└─────────────┘  └───────────┘  └──────────────────┘
-       │
-       ▼
-┌────────────────────┐
-│ Servidor de Correo │
-│  (notificaciones)  │
-└────────────────────┘
-```
+![Diagrama 1](./media/images/diagrama1.png)
 
 ### 5.3 Entorno de operación
 
@@ -129,13 +112,11 @@ El sistema será accesible desde navegadores web. Se deberán soportar los sigui
 - Google Chrome (última versión estable)
 - Mozilla Firefox (última versión estable)
 - Microsoft Edge (última versión estable)
-- Safari (última versión estable)
 
 Los dispositivos móviles y sistemas operativos siguientes deberán ser soportados:
 
-- iOS (dispositivos iPhone/iPad)
 - Android 3+
-- Windows, macOS y Linux (escritorio)
+- Windows y Linux (escritorio mediante UI web)
 
 El sistema se ejecutará sobre infraestructura con certificado SSL/TLS válido. Se deberá contar con un entorno de pre-producción (staging) que replique condiciones reales de producción para validación de cambios y nuevas funcionalidades antes de su despliegue.
 
