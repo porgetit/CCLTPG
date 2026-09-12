@@ -103,7 +103,7 @@ El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural 
 
 El siguiente diagrama muestra el contexto del sistema, las entidades externas a éste y los flujos de información.
 
-![Diagrama 1](./media/images/diagrama1.png)
+![Diagrama 1]("./media/images/diagrama1.png")
 
 ### 5.3 Entorno de operación
 
@@ -115,7 +115,7 @@ El sistema será accesible desde navegadores web. Se deberán soportar los sigui
 
 Los dispositivos móviles y sistemas operativos siguientes deberán ser soportados:
 
-- Android 3+
+- Android 14+
 - Windows y Linux (escritorio mediante UI web)
 
 El sistema se ejecutará sobre infraestructura con certificado SSL/TLS válido. Se deberá contar con un entorno de pre-producción (staging) que replique condiciones reales de producción para validación de cambios y nuevas funcionalidades antes de su despliegue.
