@@ -2,6 +2,7 @@
 ## Documento de Visión y Alcance
 ### Plataforma de Gestión – Centro Cultural Lucy Tejada
 #### Versión 1.0
+**Integrantes:** Kevin E. Cardona, David J. T. Osorio, Esteban G. Jiménez
 
 ---
 
