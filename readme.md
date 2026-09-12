@@ -104,7 +104,7 @@ El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural 
 
 El siguiente diagrama muestra el contexto del sistema, las entidades externas a éste y los flujos de información.
 
-![Diagrama 1]("./media/images/Diagrama1.png")
+![Diagrama 1]("media/images/diagrama1.png")
 
 ### 5.3 Entorno de operación
 
