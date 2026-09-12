@@ -54,7 +54,7 @@ La dependencia de una plataforma externa (Alcaldía de Pereira) limita la autono
 
 ### 3.1 Frase de visión
 
-El sistema **CCLT-Plataforma** será una plataforma web integral para el Centro Cultural Lucy Tejada. Permitirá gestionar de forma centralizada y autónoma los procesos académicos y administrativos del centro, incluyendo registro de estudiantes, inscripción en programas formativos, control de asistencia, evaluación cualitativa del desempeño, generación automatizada de reportes y visualización de métricas mediante dashboards interactivos, accesible desde navegadores web y dispositivos móviles.
+El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural Lucy Tejada. Permitirá gestionar de forma centralizada y autónoma los procesos académicos y administrativos del centro, incluyendo registro de estudiantes, inscripción en programas formativos, control de asistencia, evaluación cualitativa del desempeño, generación automatizada de reportes y visualización de métricas mediante dashboards interactivos, accesible desde navegadores web y dispositivos móviles.
 
 ### 3.2 Características del sistema
 
