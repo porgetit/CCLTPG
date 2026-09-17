@@ -114,11 +114,6 @@ El sistema será accesible desde navegadores web. Se deberán soportar los sigui
 - Mozilla Firefox (última versión estable)
 - Microsoft Edge (última versión estable)
 
-Los dispositivos móviles y sistemas operativos siguientes deberán ser soportados:
-
-- Android 14+
-- Windows y Linux (escritorio mediante UI web)
-
 El sistema se ejecutará sobre infraestructura con certificado SSL/TLS válido. Se deberá contar con un entorno de pre-producción (staging) que replique condiciones reales de producción para validación de cambios y nuevas funcionalidades antes de su despliegue.
 
 ---
