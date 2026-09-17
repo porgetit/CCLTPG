@@ -86,6 +86,15 @@ El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural 
 | 2.0 | Reportes automáticos, dashboards interactivos y notificaciones automáticas. | CAR-04, CAR-05, CAR-09 |
 | 3.0 | Accesibilidad, optimización responsiva y compatibilidad extendida. | CAR-11 |
 
+### 4.2 Limitaciones
+
+El alcance de esta versión se encuentra delimitado por las siguientes condiciones:
+
+- La gestión se centra en estudiantes, educadores, programas formativos, matrículas, asistencia, evaluaciones cualitativas, reportes y dashboards. No incluye contabilidad, pagos en línea, nómina, inventario, gestión de espacios ni otros procesos administrativos que no estén descritos en las características del sistema.
+- No se contempla en el alcance actual la integración automática con la plataforma de la Alcaldía de Pereira ni con otros sistemas externos. La migración o sincronización de datos deberá definirse como un proyecto posterior.
+- Los objetivos de disponibilidad del 99.9 %, rendimiento, copias de seguridad y recuperación ante desastres dependen de la infraestructura, la configuración y los servicios de alojamiento disponibles para el centro.
+- El sistema no reemplaza las decisiones académicas o administrativas del personal del centro; proporciona información y herramientas para apoyar dichos procesos.
+
 ---
 
 ## 5. Contexto del sistema
