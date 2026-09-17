@@ -90,6 +90,7 @@ El sistema **CCLTPG** será una plataforma web integral para el Centro Cultural 
 
 El alcance de esta versión se encuentra delimitado por las siguientes condiciones:
 
+- La solución será una plataforma web; no contempla aplicaciones móviles nativas para Android o iOS.
 - La gestión se centra en estudiantes, educadores, programas formativos, matrículas, asistencia, evaluaciones cualitativas, reportes y dashboards. No incluye contabilidad, pagos en línea, nómina, inventario, gestión de espacios ni otros procesos administrativos que no estén descritos en las características del sistema.
 - No se contempla en el alcance actual la integración automática con la plataforma de la Alcaldía de Pereira ni con otros sistemas externos. La migración o sincronización de datos deberá definirse como un proyecto posterior.
 - Los objetivos de disponibilidad del 99.9 %, rendimiento, copias de seguridad y recuperación ante desastres dependen de la infraestructura, la configuración y los servicios de alojamiento disponibles para el centro.
