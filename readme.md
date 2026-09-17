@@ -8,7 +8,7 @@
 
 ## 1. Introducción
 
-El presente documento describe la visión y alcance de la plataforma de gestión del Centro Cultural Lucy Tejada (CCLT), institución cultural adscrita a la Alcaldía de Pereira, Colombia. Este documento establece el acuerdo inicial entre el cliente y el equipo de desarrollo respecto al sistema que se va a construir, delimitando el problema de negocio, los objetivos estratégicos, las características funcionales y no funcionales del sistema, su alcance por releases, los involucrados clave y el entorno de operación esperado.
+El presente documento describe la visión y alcance de la plataforma de gestión del Centro Cultural Lucy Tejada (CCLTPG), institución cultural adscrita a la Alcaldía de Pereira, Colombia. Este documento establece el acuerdo inicial entre el cliente y el equipo de desarrollo respecto al sistema que se va a construir, delimitando el problema de negocio, los objetivos estratégicos, las características funcionales y no funcionales del sistema, su alcance por releases, los involucrados clave y el entorno de operación esperado.
 
 El contenido del documento es el siguiente:
 
